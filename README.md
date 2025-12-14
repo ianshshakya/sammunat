@@ -7,7 +7,7 @@ This project demonstrates clean UI/UX, responsive design, modern frontend practi
 ---
 
 ## 🚀 Live Demo
-🔗 https://sammunat-landing.vercel.app  
+🔗 https://sammunat.vercel.app  
 
 ---
 
@@ -31,7 +31,7 @@ This project demonstrates clean UI/UX, responsive design, modern frontend practi
 ---
 
 ## Project Structure
-sammunat-landing-page/
+sammunat/
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx
