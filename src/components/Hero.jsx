@@ -52,7 +52,7 @@ export default function Hero() {
 
           <div className="mt-12 flex items-center gap-10 text-sm">
             <div>
-              <div className="text-3xl font-bold bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
+              <div className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-cyan-300 bg-clip-text text-transparent">
                 150+
               </div>
               <div className="text-gray-400">Projects Delivered</div>
@@ -61,7 +61,7 @@ export default function Hero() {
             <div className="h-10 w-px bg-white/20" />
 
             <div>
-              <div className="text-3xl font-bold bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
+              <div className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-cyan-300 bg-clip-text text-transparent">
                 98%
               </div>
               <div className="text-gray-400">Client Satisfaction</div>

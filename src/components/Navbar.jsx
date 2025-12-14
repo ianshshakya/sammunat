@@ -15,11 +15,11 @@ export default function Navbar() {
           >
             {/* Logo */}
             <div className="leading-tight select-none">
-              <p className="text-xs tracking-[0.3em] text-blue-400 uppercase">
+              <p className="text-xs tracking-[0.3em] text-cyan-400 uppercase">
                 We Build
               </p>
               <h1 className="text-2xl font-semibold tracking-wide text-white">
-                Sam<span className="text-blue-400">mun</span>at
+                Sam<span className="text-cyan-400">mun</span>at
               </h1>
             </div>
 
@@ -37,7 +37,7 @@ export default function Navbar() {
 
               <button
                 className="ml-2 px-5 py-2 rounded-xl
-                           bg-gradient-to-r from-blue-500 to-cyan-400
+                           bg-gradient-to-r from-cyan-500 to-cyan-400
                            text-black font-semibold
                            hover:scale-105 transition-all duration-300"
               >
